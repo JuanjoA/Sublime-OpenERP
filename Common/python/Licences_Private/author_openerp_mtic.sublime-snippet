@@ -1,0 +1,10 @@
+<!-- OpenERP Python Snippets -->
+
+<snippet>
+    <content><![CDATA[
+Juanjo Algaz - MalagaTIC  juanjoa@malagatic.com
+]]></content>
+    <tabTrigger>author</tabTrigger>
+    <scope>source.python</scope>
+    <description>Author</description>
+</snippet>

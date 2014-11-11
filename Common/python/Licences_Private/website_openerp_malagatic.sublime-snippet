@@ -1,0 +1,10 @@
+<!-- OpenERP Python Snippets -->
+
+<snippet>
+    <content><![CDATA[
+http://www.malagatic.com/
+]]></content>
+    <tabTrigger>website</tabTrigger>
+    <scope>source.python</scope>
+    <description>MalagaTIC Website</description>
+</snippet>
